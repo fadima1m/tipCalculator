@@ -1,3 +1,21 @@
  #results {
          display:none;
        }
+	   
+	h1 {
+		color: fuchsia;
+	}
+	
+	label {
+		color: fuchsia;
+	}
+	
+	body {
+		background-color: fuchsia;
+	}
+	h5 {
+		color: fuchsia;
+	}
+	span {
+		color: fuchsia;
+	}
